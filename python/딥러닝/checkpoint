@@ -1,0 +1,2 @@
+model_checkpoint_path: "nsmc_bestmodel.cp"
+all_model_checkpoint_paths: "nsmc_bestmodel.cp"
