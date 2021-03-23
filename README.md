@@ -21,11 +21,20 @@
 * 데이터베이스 연동
 * Numpy 기초
 * Pandas 기초
+* 엑셀처리 기초
 ### 2. 데이터 가공
-
+* Pandas를 이용한 dataframe 연산
+* dataframe 합치기
+* 결측치 처리하기
+* 데이터 전처리 실습
 ### 3. 데이터처리 및 크롤링
-
+* 데이터 수집(requests모듈, urllib라이브러리 사용)
+* BeautifulSoup
+* Selenium
 ### 4. 시각화
+* matplotlib를 이용한 시각화 그래프
+* folium을 이용한 지도
+* seaborn를 이용한 시각화 그래프
 
 ### 5. 수학
 
