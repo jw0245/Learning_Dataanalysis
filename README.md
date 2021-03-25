@@ -42,6 +42,35 @@
 * 미분
 * 확률
 ### 6. 머신러닝
+* 데이터 전처리
+   - 결측 처리
+   - 원핫인코딩
+   - Standard Scaling(표준화)
+   - Normalize (정규화)
+* 분류
+   - Logistic Regression
+   - SGD
+   - kNN
+   - SVM
+   - Descision Tree
+   - Naive Bayes (나이브베이즈)
+   - Perceptron
+* 회귀
+   - LinearRegression
+   - Regularization (규제)
+   - ElasticNet
+   - pipeline
+   - Polynomial Features
+* 앙상블
+   - voting
+   - bagging
+   - RandomForest
+   - boosting
+   - XGBoost
+   - LightGBM
+   - stacking
+* 비지도학습(Unsupervised Learning)
 
+   
 
 ### 7. 딥러닝
