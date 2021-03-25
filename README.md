@@ -70,7 +70,16 @@
    - LightGBM
    - stacking
 * 비지도학습(Unsupervised Learning)
-
-   
-
+   - PCA
+   - LDA
+   - SVD
+   - K-Means Clustering
+   - DBSCAN
+* 하이퍼 파라미터 튜닝
+   - RandomizedSearchCV
+   - GridSearchCV
+* 피처셀렉션
+* 대량 데이터
+   - SGD
+   - NaiveBayes
 ### 7. 딥러닝
