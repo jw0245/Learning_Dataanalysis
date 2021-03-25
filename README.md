@@ -37,7 +37,49 @@
 * seaborn를 이용한 시각화 그래프
 
 ### 5. 수학
-
+* Numpy를 이용한 연산
+* 선형대수
+* 미분
+* 확률
 ### 6. 머신러닝
-
+* 데이터 전처리
+   - 결측 처리
+   - 원핫인코딩
+   - Standard Scaling(표준화)
+   - Normalize (정규화)
+* 분류
+   - Logistic Regression
+   - SGD
+   - kNN
+   - SVM
+   - Descision Tree
+   - Naive Bayes (나이브베이즈)
+   - Perceptron
+* 회귀
+   - LinearRegression
+   - Regularization (규제)
+   - ElasticNet
+   - pipeline
+   - Polynomial Features
+* 앙상블
+   - voting
+   - bagging
+   - RandomForest
+   - boosting
+   - XGBoost
+   - LightGBM
+   - stacking
+* 비지도학습(Unsupervised Learning)
+   - PCA
+   - LDA
+   - SVD
+   - K-Means Clustering
+   - DBSCAN
+* 하이퍼 파라미터 튜닝
+   - RandomizedSearchCV
+   - GridSearchCV
+* 피처셀렉션
+* 대량 데이터
+   - SGD
+   - NaiveBayes
 ### 7. 딥러닝
