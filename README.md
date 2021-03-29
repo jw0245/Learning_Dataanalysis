@@ -83,3 +83,7 @@
    - SGD
    - NaiveBayes
 ### 7. 딥러닝
+* tensorflow
+   - tensorflow 기본문법
+* ANN 구현
+* 
