@@ -85,5 +85,8 @@
 ### 7. 딥러닝
 * tensorflow
    - tensorflow 기본문법
+* 데이터 전처리
 * ANN 구현
-* 
+* CNN 구현
+* RNN 구현
+   - LSTM
